@@ -10,7 +10,7 @@ const ProjectsSection = () => {
     {
       id: 1,
       title: "Ecommerce Imersivo",
-      description: "Um projeto moderno e didático de e-commerce com visualização 3D, personalização em tempo real e recomendações inteligentes com IA.",
+      description: "Um e-commerce moderno e interativo, que combina visualização 3D com Three.js, personalização em tempo real e recomendações inteligentes baseadas em IA com TensorFlow.js. Este projeto entrega uma experiência imersiva e personalizada para o usuário, enquanto demonstra o potencial da inteligência artificial aplicada ao comércio eletrônico.",
       image: "fundo.png",
       technologies: ["React", "Node.js", "Three.js", "TensorFlow.js"],
       demoLink: "https://ecommerce-imersivo.vercel.app/", 
@@ -20,7 +20,7 @@ const ProjectsSection = () => {
     {
       id: 2,
       title: "Dashboard Administrativo",
-      description: "Ferramenta que utiliza algoritmos para otimizar fluxos de trabalho industriais, demonstrando a aplicação de tecnologia em processos tradicionais.",
+      description: "Um painel poderoso que centraliza e analisa todos os dados do e-commerce imersivo, oferecendo relatórios em tempo real sobre vendas, engajamento, personalização e recomendações. Ele permite que gestores acompanhem KPIs, identifiquem tendências e tomem decisões estratégicas com base no desempenho e comportamento dos usuários.",
       image: "dashboard-posvendas.png",
       technologies: ["JavaScript", "Node.Js", "Mongo", "React"],
       demoLink: "https://github.com/Klienn77/pos-vendas-ecommerce.git",
@@ -30,7 +30,7 @@ const ProjectsSection = () => {
     {
       id: 3,
       title: "Plataforma de Gestão de Assistência Técnica",
-      description: "Sistema completo para gerenciamento de chamados técnicos, inspirado na minha experiência como consultor de suporte técnico.",
+      description: "Uma plataforma completa para a gestão de assistência técnica que organiza chamados, serviços, controle de peças e relatórios, desenvolvida a partir da minha própria experiência como consultor técnico e que prioriza agilidade, rastreamento e qualidade no atendimento.",
       image: "oficina-mecanica.jpg",
       technologies: ["JavaScript", "Node.js", "MySQL",],
       demoLink: "https://gestao-oficina.vercel.app",
