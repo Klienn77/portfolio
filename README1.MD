@@ -67,3 +67,6 @@ Este portfólio pode ser facilmente hospedado em:
 3. Adicionar análises do Google para rastrear visitantes
 4. Implementar testes automatizados
 5. Otimizar para SEO
+
+
+att 1 - foi atualizado os pacotes node
